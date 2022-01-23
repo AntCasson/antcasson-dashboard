@@ -1,3 +1,3 @@
 Google Chrome Dashboard Extension
 
-#Part of Scrimba lesson personalized with local weather and DOGECOIN
+#Part of Scrimba API lesson personalized with local weather and Dogecoin stats.
